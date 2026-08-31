@@ -6,7 +6,6 @@ An interactive **6-page Power BI dashboard** that analyzes hospital operations e
 
 The dashboard is driven by a star-schema data model sourced from 15 Excel tables, and it presents actionable insights through a clean, modern UI with custom navigation, drill-through cards, and dynamic filters.
 
-![Hospital Analysis Dashboard - Home](Hospital%20dashboard/Screenshots/Screenshot%202026-08-31%20162333.png)
 
 ---
 
